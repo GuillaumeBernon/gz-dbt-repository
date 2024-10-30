@@ -48,4 +48,4 @@ models:
     mart:
       +materialized: table
       finance:
-        +schema: table
+        +schema: dbt_bernon_finance
